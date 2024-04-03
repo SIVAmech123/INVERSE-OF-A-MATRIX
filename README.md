@@ -21,9 +21,8 @@ To write a python program to find the inverse of a matrix
 
 
 
-<img width="672" alt="Screenshot 2024-04-03 101932 - Copy" src="https://github.com/SIVAmech123/INVERSE-OF-A-MATRIX/assets/151629067/7af1ff16-5f0c-4e07-9482-b193cc7a21da">
 
-
+<img width="336" alt="Screenshot 2024-04-03 101943" src="https://github.com/SIVAmech123/INVERSE-OF-A-MATRIX/assets/151629067/fbe3f60d-662a-49b2-b6ea-bc60da03281d">
 
 
 
